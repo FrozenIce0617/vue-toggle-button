@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://imgur.com/6GPw0Pa.png" width="400">
+</p>
+
+<p align="center">
+  A VueJS Switch Component
+</p>
+
 # Vue.js toggle / switch button
 VueJS ToggleButton component
 
